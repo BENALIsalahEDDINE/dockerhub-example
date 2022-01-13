@@ -1,6 +1,6 @@
 pipeline { 
 environment { 
-registry = "salahtest/imagetest" 
+registry = "salahtest/salahtest" 
 registryCredential ='salahtest' 
 dockerImage = 'imgjnk' 
 } 
